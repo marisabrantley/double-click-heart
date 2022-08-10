@@ -1,5 +1,5 @@
 # Double-click Heart Mini Project
-Are you a fan of vintage Volkswagen Beetles? Then put your cursor over the image of my 1969 Gulf Blue, California-original VW Ragtop Beetle and show it some love by double-clicking away!
+Are you a fan of vintage Volkswagen Beetles? Then put your cursor over the image of my 1963 Gulf Blue, California-original VW Ragtop Beetle and show it some love by double-clicking away!
 
 ## Objective
 * Use CSS grow animation to grow a heart that will appear when the user double-clicks on the image.
